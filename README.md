@@ -6,28 +6,31 @@ This repository contains lab work for the **Enterprise Application Development (
 
 ## 📁 Folders
 
-- **EAD lab -1**  
-  Contains code and documentation for Lab 1.
+### 📂 EAD lab -1
+Contains code and documentation for Lab 1.
 
-- **EAD lab -2**  
-  Contains code and documentation for Lab 2.
+### 📂 EAD lab -2
+Contains code and documentation  of Factory and Singleton method for Lab 2.
 
----
-
-## 📌 Branches
-
-- `main` / `master`: Final working version
-- `feature`: Development branch for adding features
-- `develop`: Integration and testing before final merge
-
----
-
-## 🧾 Last Update
-
-This repository was last updated on **July 23, 2025**.
+### 📂 EAD lab -3 CRUD-MVC
+This folder contains a full implementation of a **CRUD web application** using the **MVC (Model-View-Controller)** architecture in **Java**.  
+It demonstrates:
+- Creating, reading, updating, and deleting records.
+- Use of servlets, JSP, and Java Beans.
+- Proper MVC structure separation.
+- Real-world student or book management example.
 
 ---
 
-## 💡 Note
+## 🧑‍💻 Author
+**Bibek Thapa**
 
+---
+
+## 🗂️ Branches
+All lab work is pushed to the `master` branch.
+
+---
+
+## 📌 Note
 This is a learning project for academic purposes.
