@@ -23,7 +23,7 @@ It demonstrates:
 ---
 
 ## 🧑‍💻 Author
-**Bibek Thapa**
+**Thapa Bibek**
 
 ---
 
