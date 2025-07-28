@@ -1,4 +1,4 @@
-# Laravel, MVC Pattern, and CRUD Operations
+# MVC Pattern and CRUD Operations
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
